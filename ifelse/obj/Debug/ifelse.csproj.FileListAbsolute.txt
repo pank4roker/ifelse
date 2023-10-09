@@ -1,0 +1,8 @@
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\bin\Debug\ifelse.exe.config
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\bin\Debug\ifelse.exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\bin\Debug\ifelse.pdb
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\obj\Debug\ifelse.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\obj\Debug\ifelse.csproj.SuggestedBindingRedirects.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\obj\Debug\ifelse.exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\ifelse\obj\Debug\ifelse.pdb
